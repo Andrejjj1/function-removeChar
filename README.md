@@ -1,0 +1,2 @@
+# function-removeChar
+function removeChar
